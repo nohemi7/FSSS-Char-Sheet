@@ -1,0 +1,14 @@
+{
+  "name": "fssscharsheet",
+  "version": "1.0.0",
+  "description": "atla character sheet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nohemi, Nathan",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.1"
+  }
+}
